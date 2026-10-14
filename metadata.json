@@ -1,0 +1,8 @@
+{
+  "name": "Remix Prime Market Hub",
+  "description": "A streamlined platform to browse, price, and purchase curated digital goods across diverse shopping and crypto marketplaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
